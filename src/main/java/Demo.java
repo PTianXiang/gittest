@@ -7,6 +7,7 @@ public class Demo {
         System.out.println();
         System.out.println("添加分支！");
         System.out.println("添加分支22222！");
+        System.out.println("变蓝！");
     }
 
 
